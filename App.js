@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 40,
+    marginLeft: 30,
   },
   input: {
     height: 40,
