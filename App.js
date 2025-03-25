@@ -4,7 +4,6 @@ import Button from "./components/Button";
 export default function Home() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Persistência e Navegação</Text>
       <TextInput style={styles.input} placeholder="Digite algo" />
       <Text style={styles.textRed}>Sem persistência: Nenhum texto Salvo</Text>
       <Text style={styles.textGreen}>Texto persistido: Nenhum texto Salvo</Text>
